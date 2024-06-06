@@ -97,7 +97,7 @@ body {
 
 .card-section:hover{
     transform-origin: ;
-    border-radius: 10%;
+    border-radius: 3vh;
     box-shadow: 0 0 5px#00000025;
     scale: 1.1;
     z-index: 2;
